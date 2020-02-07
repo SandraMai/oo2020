@@ -79,3 +79,7 @@ public class Funktsioonid1{
         System.out.println(geomeetrilineKeskmine(4,9));
     }
 }
+
+/*
+Lõppu väljund kodutöös
+*/
