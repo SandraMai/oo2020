@@ -24,4 +24,5 @@ public class Bmrcalc{
 /*
 java Bmrcalc naine 52 167 22
 Päevane baasenergiakulu on 1358.454 kcal.
+ululullululullu
 */
