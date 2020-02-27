@@ -9,7 +9,7 @@ public class Computer{
         return (pc.getAmount()+newAmount);
     }
 
-    public String toString(){
+    public String specs(){
         return "(" + pc.brand + ", " + pc.ram + "gb ram, " + pc.space + "gb, " + pc.price + "eur)";
     }
 }
