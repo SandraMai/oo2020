@@ -4,7 +4,7 @@ public class Proov{
         Computer sh1 = new Computer(sp1);
         System.out.println(sp1.getAmount());
         System.out.println(sh1.addAmount(2));
-        System.out.println(sh1.toString());
+        System.out.println(sh1.specs());
     }
 }
 
