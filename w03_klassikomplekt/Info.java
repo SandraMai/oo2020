@@ -17,7 +17,4 @@ public class Info{
         return amount;
     }
     
-    public String toString(){
-        return "(" + brand + ", " + ram + "gb ram, " + space + "gb, " + price + "eur)";
-    }
 }
