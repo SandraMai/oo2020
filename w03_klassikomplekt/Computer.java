@@ -1,12 +1,14 @@
 public class Computer{
     Info pc;
+    int finalAmount;
 
     public Computer(Info upc){
         pc = upc;
     }
 
     public int addAmount(int newAmount){
-        return (pc.getAmount()+newAmount);
+        finalAmount = (pc.getAmount()+newAmount);
+        return finalAmount;
     }
 
     public String specs(){
