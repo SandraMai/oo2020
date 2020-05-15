@@ -1,0 +1,14 @@
+* Automaattestid rakenduse kavandamise juures
+* Automaattestid koodi muutmise juures
+* Konkreetse klassi eksemplari funktsiooni töö testimise näide
+
+Automaattestid -  
+kasutatakse tavaliselt et kontrollida koodi väikseid osi, võib kasutada junit4.jari
+samuti saab veebilehti testida(selenium)
+
+Koodi muutmise juures saab testida kas uus kood vastab vanale koodile nii
+et mitte muudetud koodi osa see ei mõjutaks. Samuti aitab leida kõik vead mis 
+võimalikult tekkisid koodi muutmise juures.
+
+
+
